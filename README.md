@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [SeHaRes](https://github.com/seyhankochan/SeHaRes)
 
-- 🌱 I’m currently learning **Unity and game development**
-
 - 🔭 I’m currently working on [cofféfiesta](https://github.com/seyhankochan/coffefiesta)
 
 - 🔭 I’m currently working on [stocktracker](https://github.com/seyhankochan/stocktracker)
+
+- 🌱 I’m currently learning **Unity and game development**
 
 - 📫 How to reach me **kochanseyhan@gmail.com**
 
