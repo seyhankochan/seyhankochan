@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [stocktracker](https://github.com/seyhankochan/stocktracker)
 
-- - 🔭 I’m currently working on [stocktracker](https://github.com/seyhankochan/HTML-CSS-LIBRARY)
+- 🔭 I’m currently working on [HTML-CSS-LIBRARY](https://github.com/seyhankochan/HTML-CSS-LIBRARY)
 
 - 🌱 I’m currently learning **Unity and game development**
 
